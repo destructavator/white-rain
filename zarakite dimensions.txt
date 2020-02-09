@@ -1,0 +1,17 @@
+Torso:
+ 20cm wide
+ 13cm front-to-back
+
+Skull:
+ 14cm wide (15cm with ears)
+ 20cm front-to-back
+ 24cm tall (eyes to top of skull x2)
+
+Overall Height:
+ 1.78m
+ 1.847m with mo-hawk haircut
+
+Haircut is circular, always protrudes away from skull and not at angle, except x-axis (never bent left-to-right), average length is:
+ 6.7cm
+ 4cm width
+
