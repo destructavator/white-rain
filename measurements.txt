@@ -1,0 +1,73 @@
+Proto's shoe size: 11 and a half, applies to both boots and shoes, as of December 5th of 2018
+
+Size, 3, 4, and 5, at "teen" age have USA waist size of 28 inches, at hips, and 26 inches cirumference around belly and chest, minus muscles (pectorals, shoulder muscles, etc.)
+Wingspan includes feathers.
+
+belly/chest: 8.2760570407785574599819556953707 inches, side to side
+belly/chest: ?21.0211848835775? cm, side to side
+hips: 8.9126768131461388030574907488608 inches, side to side
+?hips: 22.6381991053908? cm, side to side
+
+1.0155161779506038647342995169082 ratio (multiply depiction in model by this to get real life size)
+Real life is 101.55% size of depiction in 3D model
+
+Real life height, size 4:
+??1.86098422877229? meters / 186.098422877229? cm / 73.267095620956105415458937198067? inches
+6 ft, 1.2 inches, plus haircut
+
+Real life Wingspan: 11.929268542385743599033816425121 meters / 1192.9268542385743599033816425121 cm / 469.65622663344866054347826086956 inches 
+39 ft, 1.7 inches
+
+
+3D Model (Zarakite_008.blend):
+belly and chest: ?8.149606? inches, side to side, froms a circle with circumferance of 25.602742339251300514934589292235 inches
+belly and chest: ??6.161417? inches, front to back, froms a circle with circumferance of 19.356662382903263085948784806676 inches
+belly and chest, two horizontal dimensions averaged, is 7.1555115 inches, and form a circle with a circumferance of 22.479702361077281800441687049455 inches
+belly and chest: 20.70 cm, side to side, 57% of 36.35 cm
+belly and chest: 15.65 cm, front to back, 43% of 36.35 cm
+belly and chest: 57.098446478994492109058543491105 cm circumferance, average diameter is 18.175 cm
+belly and chest ratio: 0.75603864734299516908212560386473 (front to back is ~75.6% the length of the side-to-side dimension) 
+Height: 1.83255 meters / 183.255 cm / ?72.14764? inches
+Wingspan: 11.747 meters / 1174.7 cm / ?462.4803? inches
+Height of head: 23 cm
+
+Average height for 16 year old human, male, USA (?), 2018: 67 inches
+Average weight for 16 year old human, male, USA (?), 2018: 132 lb
+
+If size of waist is 26 inches, and size of belly is 24:
+3D Model belly size is 8.149606 inches, side-to-side straight length (single dimension).  As such, diameter of waist in belly area (an oval) is 8.149606 inches when viewed from the front.  24 inches divided by pi is 7.6394372684109761169064206418807 inches, which means a belly measurement (an oval shape) has a diameter (a single dimension, straight line) of ~7.64 inches when viewed from the front.  Meanwhile, ~75.6% of 24 inches is 18.144927536231884057971014492754 inches, which is the diameter of a circle that would have the same diameter of the belly front to back, yet would be too small to have the same diameter of the belly side to side (the belly of the torso is wider than this smaller circle, easily seen from a front view if the circle is in front of the torso of the model).  18.144927536231884057971014492754, divided by pi, is 5.7757098188711003009461586012286 inches (which is the straight-line measurement diameter of the smaller circle front to back).  The average of the two diameters (the larger circle and smaller circle, which, respectively, are circles that would be the same as the side-to-side dimensions of the belly of the torso and the front to back dimensions of the torso) is 6.7075735436410382089262896215547 inches.
+
+3D Model ratio of belly waist size to height (circumferance at belly, above hips, to height in straight line dimension), for TJS: 0.31157920099857844047397639077299
+3D Model ratio of wingspan to height: 6.4101934462906878393495402581103
+
+Height, in cm, white ethnic, USA in Target Teen Culture born ~1978
+Infant age (8 yrs):
+size 1: 117 cm / 46.06 inches, belly waist size 36.455 cm / 14.352 inches, waist size is 15 inches, wingspan is 24 ft 8 in
+size 2: 123 cm
+size 3: 128 cm
+size 4: 132 cm
+size 5: 138 cm
+
+Child age (10 yrs):
+size 1: 129 cm
+size 2: 136 cm
+size 3: 140 cm
+size 4: 145 cm
+size 5: 152 cm
+
+Adolescent (14 yrs) age:
+size 1: 153 cm / 60.24 inches, belly waist size 47.672 cm / 18.769 inches, waist size is 20 inches, wingspan is 32 ft 3 in
+size 2: 160 cm / 62.99 inches, belly waist size 49.853 cm / 19.627 inches, waist size is 21 inches, wingspan is 33 ft 8 in
+size 3: 165 cm / 64.96 inches, belly waist size 51.411 cm / 20.241 inches, waist size is 22 inches, wingspan is 34 ft 9 in
+size 4: 171 cm / 67.32 inches, belly waist size 53.280 cm / 20.976 inches, waist size is 23 inches, wingspan is 36 ft 0 in
+size 5: 179 cm / 70.47 inches, belly waist size 55.773 cm / 21.958 inches, waist size is 24 inches, wingspan is 37 ft 8 in
+
+Teen (16.3 yrs) age:
+size 1: 162 cm / 63.78 inches, belly waist size 50.476 cm / 19.872 inches, waist size is 21 inches, wingspan is 34 ft 1 in
+size 2: 171 cm / 67.32 inches, belly waist size 53.280 cm / 20.976 inches, waist size is 22 inches, wingspan is 36 ft 10 in
+size 3: 175 cm / 68.90 inches, belly waist size 54.526 cm / 21.467 inches, waist size is 23 inches, wingspan is 38 ft 0 in <-- Double check, TODO
+size 4: 181 cm / 71.26 inches, belly waist size 56.396 cm / 22.203 inches, waist size is 24 inches, wingspan is 38 ft 1 in
+size 5: 187 cm / 73.62 inches, belly waist size 58.265 cm / 22.939 inches, waist size is 25 inches, wingspan is 39 ft 4 in
+
+
+

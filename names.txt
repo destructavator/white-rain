@@ -1,0 +1,595 @@
+Some of these are still being updated.
+
+ZK	Zarakite
+HZK	Half Zarakite
+RH	Son of two-headed zarakite's right head
+LH	Son of two-headed zarakite's left head
+
+1	Jade
+	ZK	Zinc Silver SwiftWing
+	HZK RH	Shinjiro Katana SwiftWing
+	HZK RH
+	HZK LH
+	HZK LH
+
+2	Prismatic
+	ZK	Sapphire Diamond SwiftWing
+	HZK RH	Jeopplandray 'Jett' Mintlekk SwiftWing
+	HZK RH	Duncan Ajax SwiftWing
+	HZK LH
+	HZK LH
+
+3	Obsidian
+	ZK
+	HZK RH	Justin Samuel SwiftWing
+	HZK LH
+
+4	Jaspar
+	Zarakite and half zarakite milk from such tastes like apple cinnamon
+	HZK RH	- D'Artagnan SwiftWing
+	HZK LH
+
+5	Iolite
+	ZK	SunStone Cobalt SwiftWing
+	HZK RH	Jonathan 'Dakota' Dakota SwiftWing
+	HZK LH
+
+6	Chrome
+	ZK
+	HZK RH	Kevin Conrad SwiftWing
+	HZK LH
+
+7	-
+	ZK
+	HZK RH	Donald 'Don' Declan SwiftWing
+	HZK LH
+
+8	Pyrax
+	ZK
+	HZK RH	Eric Dallas SwiftWing
+	HZK LH
+
+9	-
+	ZK
+	HZK RH	Kaden Magnus SwiftWing
+	HZK LH
+
+10	-
+	ZK
+	HZK RH	Edward 'Ed' Lawrence SwiftWing
+	HZK LH
+
+11	-
+	ZK
+	HZK RH	Carl Gary SwiftWing
+	HZK LH
+
+12	Cheetah
+	ZK
+	HZK RH	James 'Jim' 'Jimmy' Echo SwiftWing
+	HZK RH	Jaguar 'Jag' Zeth SwiftWing
+	HZK LH
+	HZK LH
+
+13	-
+	ZK
+	HZK RH	Mark Kaito SwiftWing
+	HZK LH
+
+14	Cobalt
+	ZK
+	HZK RH	Talon Kato SwiftWing
+	HZK LH
+
+15	Jet
+	ZK
+	HZK RH	Charles 'Chuck' Quentin SwiftWing
+	HZK LH
+
+16	-
+	ZK
+	HZK RH	Exotic Waters SwiftWing
+	HZK LH	Elliot Waters SwiftWing
+
+17	-
+	ZK
+	HZK RH	Castor Damon SwiftWing
+	HZk LH
+
+18	Kunzite
+	ZK
+	HZK RH	Scott Tarak SwiftWing
+	HZK LH	
+
+19	Indigo
+	ZK
+	HZK RH	Brenden Zack SwiftWing
+	HZK LH
+
+20	-
+	ZK
+	HZK RH	Josh Odin SwiftWing
+	HZK LH
+
+21	-
+	ZK
+	HZK RH	Ohio SkyLand SwiftWing
+	HZK LH
+
+22	-
+	ZK
+	HZK RH
+	HZK LH
+
+23	-
+	ZK
+	HZK RH	Keith Zeke SwiftWing
+	HZK LH
+
+24	-
+	ZK
+	HZK RH	Robert 'Bob' Navarro SwiftWing
+	HZK LH
+
+25	Glass
+	ZK
+	HZK RH	Matthew 'Matt' Peyton SwiftWing
+	HZK LH
+
+26	Leopard
+	ZK
+	HZK RH	Nathan 'Nate' Tupoc SwiftWing
+	HZK LH
+
+27	Steel
+	ZK
+	HZK RH	Isko Laki SwiftWing
+	HZK LH
+
+28	FangStone
+	ZK
+	HZK RH
+	HZK LH
+
+29	Cougar
+	ZK
+	HZK RH	Alpine Zarek SwiftWing
+	HZK LH
+
+30	Ruby
+	ZK
+	HZK RH	Barrington 'Barry' Willem SwiftWing
+	HZK LH
+
+31	Jaguar
+	ZK
+	HZK RH
+	HZK LH
+
+32	Diamond
+	ZK
+	HZK RH	Devon 'Dev' Sasuke SwiftWing
+	HZK LH
+
+33	Almandine
+	Zarakite and half zarakite milk from such tastes like blueberry
+	ZK	Micro Chrome SwiftWing
+	HZK RH	Zeth Andrew SwiftWing
+	HZK LH	Ferdinand 'Fred' Sef SwiftWing
+
+34	-
+	ZK
+	HZK RH	Jeffrey 'Jeff' Strom SwiftWing
+	HZK LH
+
+35	Lynx
+	ZK
+	HZK RH	Elwyn Jafar SwiftWing
+	HZK LH
+
+36	-
+	ZK
+	HZK RH	Calvin Zeti SwiftWing
+	HZK LH
+
+37	-
+	ZK
+	HZK RH	David 'Dave' Ihuicatl SwiftWing
+	HZK LH
+
+38	-
+	ZK
+	HZK RH	Ryan Fritz SwiftWing
+	HZK LH
+
+39	Gold
+	ZK	Raxx Titanium SwiftWing
+	HZK RH	Brain Thomas SwiftWing
+	HZK LH
+
+40	-
+	ZK
+	HZK RH	Haruto Akando SwiftWing
+	HZK LH
+
+41	-
+	ZK	Iolite Glass SwiftWing
+	HZK RH	Jason Asho SwiftWing
+	HZK LH
+
+42	-
+	ZK
+	HZK RH	Colton 'Colt' Kamran SwiftWing
+	HZK LH
+
+43	Emerald
+	ZK
+	HZK RH	William 'Bill' 'Billy' Rangsey SwiftWing
+	HZK LH
+
+44	Copper
+	ZK
+	HZK RH	Dexter Magic SwiftWing
+	HZK LH
+
+45	Graphite
+	ZK	Wolframite 'Wolf' Silver SwiftWing
+	HZK RH	Maxwell 'Max' Feng SwiftWing
+	HZK LH
+
+46	-
+	ZK
+	HZK RH
+	HZK LH
+
+47	-
+	ZK
+	HZK RH
+	HZK LH
+
+48	-
+	ZK
+	HZK RH
+	HZK LH
+
+49	-
+	ZK
+	HZK RH
+	HZK LH
+
+50	-
+	ZK
+	HZK RH
+	HZK LH
+
+51	-
+	ZK
+	HZK RH
+	HZK LH
+
+52	-
+	ZK
+	HZK RH
+	HZK LH
+
+53	Mercury
+	ZK
+	HZK RH
+	HZK LH
+
+54	Volcano
+	Zarakite and half zarakite milk from such tastes like strawberry
+	ZK	Talcon Obsidian SwiftWing
+	HZK RH	Paul Akamu SwiftWing
+	HZK LH
+
+55	-
+	ZK
+	HZK RH
+	HZK LH
+
+56	-
+	ZK
+	HZK RH
+	HZK LH
+
+57	TigerStone
+	ZK	Tiger's Eye Jade SwiftWing, Slate Diamond SwiftWing
+	HZK RH	Tony Akira SwiftWing
+	HZK LH
+
+58	Beryl
+	ZK
+	HZK RH
+	HZK LH
+
+59	-
+	ZK	Kyan Ice SwiftWing
+	HZK RH	Dylan Naruto SwiftWing
+	HZK LH
+
+60	-
+	ZK
+	HZK RH
+	HZK LH
+
+61	-
+	ZK
+	HZK RH
+	HZK LH
+
+62	-
+	ZK
+	HZK RH
+	HZK LH
+
+63	-
+	ZK
+	HZK RH
+	HZK LH
+
+64	-
+	ZK
+	HZK RH
+	HZK LH
+
+65	Micro
+	ZK
+	HZK RH
+	HZK LH
+
+66	Ametrine
+	ZK
+	HZK RH
+	HZK LH
+
+67	-
+	ZK
+	HZK RH
+	HZK LH
+
+68	-
+	ZK
+	HZK RH
+	HZK LH
+
+69	Feldspar
+	ZK
+	HZK RH
+	HZK LH
+
+70	-
+	ZK
+	HZK RH
+	HZK LH
+
+71	-
+	ZK
+	HZK RH
+	HZK LH
+
+72	-
+	ZK
+	HZK RH
+	HZK LH
+
+73	-
+	ZK
+	HZK RH
+	HZK LH
+
+74	Cloud
+	ZK
+	HZK RH
+	HZK LH
+
+75	-
+	ZK
+	HZK RH
+	HZK LH
+
+76	-
+	ZK
+	HZK RH
+	HZK LH
+
+77	-
+	ZK
+	HZK RH
+	HZK LH
+
+78	Carbon
+	ZK
+	HZK RH
+	HZK LH
+
+79	Bloodstone
+	ZK
+	HZK RH
+	HZK LH
+
+80	-
+	ZK
+	HZK RH
+	HZK LH
+
+81	-
+	ZK
+	HZK RH
+	HZK LH
+
+82	-
+	ZK
+	HZK RH
+	HZK LH
+
+83	-
+	ZK
+	HZK RH
+	HZK LH
+
+84	-
+	ZK
+	HZK RH
+	HZK LH
+
+85	-
+	ZK
+	HZK RH
+	HZK LH
+
+86	-
+	ZK
+	HZK RH
+	HZK LH
+
+87	-
+	ZK
+	HZK RH
+	HZK LH
+
+88	-
+	ZK
+	HZK RH
+	HZK LH
+
+89	Matrix
+	ZK	Mercury Gold SwiftWing
+	HZK RH	Andrew 'Andy' Colton SwiftWing
+	HZK LH	Cody Chris SwiftWing
+
+90	Flint
+	ZK
+	HZK RH
+	HZK LH
+
+91	Ice
+	ZK
+	HZK RH
+	HZK LH
+
+92	-
+	ZK
+	HZK RH
+	HZK LH
+
+93	-
+	ZK
+	HZK RH
+	HZK LH
+
+94	-
+	ZK
+	HZK RH
+	HZK LH
+
+95	-
+	ZK
+	HZK RH
+	HZK LH
+
+96	-
+	ZK
+	HZK RH
+	HZK LH
+
+97	-
+	ZK
+	HZK RH
+	HZK LH
+
+98	-
+	ZK
+	HZK RH
+	HZK LH
+
+99	-
+	ZK
+	HZK RH
+	HZK LH
+
+100	-
+	ZK
+	HZK RH
+	HZK LH
+
+Swords:
+All have 5 cm width blades
+
+Blade lengths (does not account for hilt):
+0.5 meters	'Quarter Length'/'Short Length'
+1.04 meters	'Half Length'/'Regular Length'
+1.85 meters	'Long Length'
+2.5 meters	'Field Length'
+10.04 meters	'Flight Length'
+
+All sky boy swords are stiff, rapidly self-sharpening via shape-shifting, very strong, inflexible, and heavy/high-mass by historical standards.  Such are always grown out of sky boy gloves, and cannot be dropped from the glove they are grown out of.  The blades change length rapidly, in a split second, and can sometimes also [varies], change which side the blade comes out of the hilt.  The blade cannot come out of both sides simultaneously, but can be fully degenerated, leaving a handle grown out of the glove with no blade.  The handle can, sometimes [varies] be long enough to grip with two hands, and is in such a case grown out of a right-hand glove [only], and the left hand or left glove of a sky boy can grip and let go of the handle with his left hand freely, while the right hand remains attached at all times.  Sky boy swords are always swung with a telekinetic swing, and the blades of such are very durable and can tolerate a wide range of temperatures and environments, up to the same range of the outer hull of a sky boy aircraft and spacecraft.  Such swords, if replicated with any historical materials, and historical manufacturing, would be too heavy and too awkward/clumsy for a historical to wield, as historicals lack magical telekinesis that sky boys have.  Sky boys, with their innate telekinetic athletic abilities, swing their heavy and super-sharp swords with superhuman speed and agility, and also start and stop quick and fast sword motions almost instantaneously, unlike historicals which would have to struggle to swing such blades with very slow and sluggish movements more like swinging an oversized sledgehammer, taking a good second or two [or longer] to swing such a blade with a large range of motion and a slow wind-up, and a lot of effort that would generate fatigue rather quickly.  Sky boy swords with blades extended to long length and longer are not typically suitable, or recommended, for indoor use, except large open areas.  Sky boy blades can have a variety of body artwork for the blades, including metallic and non-metallic colors and graphics.  Handles can have a variety of colors and patterns, not necessarily consistent with the glove.  Regarding use of such swords, every time the blade changes length and changes which side it come out of the handle, and every time the blade touches something other than air, such depletes a sky boy's magic, as rapid microsecond shapeshifting resharpens the blade.  Contrary to incorrect past information and badly programmed exosolar translators, sky boy swords are not going to be imaginary or symbolic, or make-believe, but will be physical and very real, and not some astral projection or juvenile pretend imaginary thing.  Zarakites and their half dragons will typically use swords at flight length when airborne and wearing wings, as the blades at such length extend beyond their wingtips, and as such allow them to strike targets beyond their wingspan on both sides of themselves when flying and gliding.  When outdoors, typical length of the sword blades will vary depending on the terrain and how large and how frequent wide open areas are.  In very large open areas, sky boys will sometimes use their swords at flight length.  At flight length, sky boy swords can be used effectively with both one-handed and two-handed attack styles.  When a sky boy sword is equipped with a left-hand sword glove, the glove always grows a handle for only one hand, and only single-handed fighting styles can be used.  When a sky boy sword is equipped with a right-hand sword glove, the glove always grows a handle with additional length so that he can grip the sword handle with his left hand, or a left glove, any time he wants, and as such use a two-handed style when he wants.  He cannot 'let go' with his right-hand sword glove, however, as the handle is grown out of his right-hand glove and has connected anatomy [blood, nerves, etc], and the handle and any sword blade is part of his body.  Sky boys will sometimes fight with two swords at a time, one in each hand.  When doing so, the length of the blades vary, and can be equal, although when they are unequal the right-hand blade is typically a longer length.  Sky boys commonly, normally change the length of their sword blades during combat, as well as which end the blade grows out of the handle, in large, open areas especially, as well as when chasing an opponent from one area to another, including fighting outdoors and following an opponent indoors.  Sky boy sword blades which are for professional use, different than the 'toy' swords that sky children use on playgrounds, are extremely sharp, with their blades self-sharpening at the edge down to microscopic levels.  Combined with their heavy mass and a good telekinetic swing, such blades can cut a tall tree's thick trunk in half with a single quick swing, leaving the tree to fall over in a forest and leaving a stump behind.  Repeatedly doing such things deplete magic of course, as maintiaining the blades sharpness with microsecond-fast self sharpening via shapeshifting uses up the magic in one's blood.  Note that because a sky boy's sword and such a swords blade is part of his anatomy and has his - nerves, blood, skin - making up such, sky boys that have the innate power of invisibility make their swords and their sword blades invisible along with the rest of themselves, when invisible.  When attacking with a sword, even if swinging the blade at a boring, non-descript inanimate object, such deactivates the sky boy's natural magical power of invisibility.  Sky boy magical invisiblity, for the those that have such power, does not affect sound or sound waves at all.  Such invisibility affects light, including but not limited to visible light and ultrablue vision frequencies, and affects physical energy that are involved with light waves, much like a high-mass neutron star called a black hole bends light waves.  Sky boy invisibility does not involve illusion of any sort, and has nothing to do with 'tricks of the mind' or fooling any being's brain or thought process.  Sky boy invisibility also makes one's eyeballs and other visual sense-of-sight body organs become invisible, and does not induce blindness or impaired sight of the sky boy.  Such invisibility is innate, natural, and magical, and not psychic, and such invisibility involves magically altering light of various frequencies in ways that involve laws of physics in a real life three dimensional universe.  Such invisibility does not require being motionless, works when moving at high velocity [but does not make one's self silent/inaudible], works best when a sky boy is airborne [flying or falling], and when not airborne creates visually noticable distortions where a sky boy's feet touch any ground or floor, as well as whereever such an invisible sky boy's body parts touch anything visible, such as where a sky boy's hand is touching a wall when standing and leaning against a wall.  Such visible distortions are more noticeble when standing and walking through puddles and standing water, as well as outdoors in rain and other percipitation.  Fog and smoke can also mess up a sky boy's invisibility, ruining his efforts to be unseen.  Given that such invisiblily has no effect at all on sound waves, a sky boy that is invisible can use his vocal cords in exactly the same way he would when visible, and another being who is not looking at an invisible sky boy during a conversation with him would potentially not notice that a sky boy made himself invisible, in a common hypothetical scenariio.  Most sky boys do not have any ability to become invisible.  Zarakites can become invisible, and when detaching body parts as detachables, such detached body parts become visible while the rest of them remain invisible.  When wounded, their glowing blood, if on any part of their body, messes up their invisibility, much like rain or fog.  Objects inside their pockets are invisible, as long as such pockets are closed.  Attacking with any weapon, firing with any gun glove, swinging any sky boy sword, attacking with claws, attacking with fangs, make such a zarakite visible.  If such a zarakite were to pick up a non-sky boy weapon and use it, or perhaps pick up a rock and throw it, the weapon or rock would not be visible of course, and an act of physical violence with such an object would make the zarakite visible.  Zarakites' ability to become invisible isn't secretive or subject to any taboo or ritual, and is casual and everyday as a zarakite uses such, and a zarakite would, as an example, turn invisible in the middle of a wide hallway or area of a shopping mall when hanging out with friends, or in the middle of a high school classroom perhaps, when goofing off, of course leaving a digruntled schoolteacher who doesn't take too kindly to such, and isn't bemused.  (If sitting down, his butt would still give him away, making visible distoritions in the seat of his classroom chair, etc)  Such would be well-justified grounds for leading to such a sky boy's appointment for reporting to a detention hall, much like any other goofing-off, depending on the circumstances, of course.
+Sky boy sword blades are always straight, and sharp on both sides of the blade, and have a symmetrical blade, broad, with a width of 5 (five) centimeters that is consistent along the entire blade except the last 10 (ten) centimeters of the blade, ending in a tip that is self-sharpening and just as sharp as the sides of the blade.  All sky boy swords lack/have-no - ricasso, rain-guard/chappe, cross-guard/quillions, pommel -.  All sky boy sword blades have a fuller.  The grip/handle of all sky boy swords always lack taper, and resemble a pistol grip of a historical 21st (twenty-first) century CE (Common Era) semi-automatic pistol that lacks taper and contours to the fingers of one who wields such.  Sky boy sword grips that are left-handed [are grown from a left-hand glove] have four concave contoured parts, four for the four fingers of the glove, and one for the thumb.  While the palm and last three fingers of the glove are pysically and anatomically attached to the grip and cannot 'let go' [and cannot be detachables], the index finger and thumb of the glove naturally and intuitively fit comfortably in the contours during normal use, and can also move freely so that a sky boy wearing the glove [having the glove attached to the end of his left arm] can use his index finger or thumb or both to - reach his belly button, use a wristwatch he is wearing on his right lower arm, press an elevator button, point/gesture at something, etc -.  While a handle is grown out of the glove, regardless of the presence or lack of any blade, a sky boy who can grow fingerclaws out of his fingertips can grow claws out of the thumb and index finger, but not any other fingers of the glove.  Right-hand sword gloves grow a handle with extra length, with an additional 9 (nine) countoured regions/parts/areas [to the handle's shape] that are the same size of and on the same side of the grip as the four contoured parts of a left-hand sword glove, making 14 (fourteen) contoured areas total [which reduce to 5 (five) in numerology], allowing the sky boy to grab the grip with his left hand or left glove [if he has one], and have more control and more strength with use of the sword he grows from his right-hand sword glove.  The left hand or left glove will not attach to the grip of a right hand sword glove, but will grab and let go of such freely.
+Naturally, sky boy weapons, including - guns, swords, over-shoulder weapons, etc - require no scabbard or storage case at all, with basic logic and common sense, although the gloves for such things are however a different matter.  A sky boy glove for such, just like any sky boy glove, can be carried in a pocket of the clothing of any sky boy, and attached to the chains of any sky boy [the wallet chain, as well as any other chain.  Any other chain of course is dependent upon having an object to attach such to].
+Sky boy weapons, - guns, swords, cannons/over-shoulder/bazooka-like -, which are lost/discarded/cut-off/chopped-off/detached, often with the glove still attached, are generally not usable by other species, such/although-such/however-such varies/lacks-consistency/lacks-mundane-consistency.  If the weapon and connected glove isn't connected to a sky boy's arm that it attaches to within 24 (twenty-four) hours [planet Earth time, the same planet as the world-origin of sky boys], the glove and the weapon die, and both typically turn into worms, by default (?).
+
+TODO: Ambush predator, predator nature, death from above, natural attacking and hunting and fighting styles, falling, viewing an area from above, three-dimensional thinking and strategy
+
+
+
+Sky boy gun gloves have five basic types:
+'Light Pistol'	One-handed, fires a bunch of shots at high speed, low recoil, easy to manage and control, easy to use
+'Heavy Pistol'	One-handed, fires only five shots per magazine, high recoil, requires carefully, well-placed shots
+'SMG'/'SubMachine Gun'	One-handed, high magazine capacity [several hundred], can have very high rate-of-fire and low accuracy
+'Assault Gun'/'Assault Rifle'/'Combat Rifle'	Two-handed, can be fully automatic, well-balanced, good accuracy
+'Sniper Rifle'/'Long Range Rifle'	Two-handed, slow rate of fire, high recoil, extreme accuracy when used the right way
+No sky boy guns have silencers or sound suppressors, and the amount of noise they make vary.
+
+TODO (?):
+Sky boy over-the-shoulder weapons/tools are from a right-hand glove only, and there are five types:
+'Concussion Cannon'	Fires a projectile which [upon impact] explodes/'plodes in all three dimensional directions
+'Detox Cannon'		Microbes from such fix bad PH, pollution, and generally what is harmful to Earth-origin life
+'Extinguisher Cannon'/'Sand Cannon'	Puts out fires/flames from a variety of sources
+'Slime Cannon'/'Goo Cannon'/'Sticky Cannon'/'Gum Cannon'	Creates a sticky goo-like gum that traps animal life
+'' (?)
+Over-the-shoulder cannons fire a projectile that generally flies in a straight line, is self-correcting as such, and has it's own brain and telekinetic propulsion abilities for such.
+Cannons only fire one shot at a time before they need to be reloaded, which of course spends magic from the owner/operator/user of the glove for the cannon.
+Most over-the-shoulder cannons are 'pathogen cannons' and as such fire a projectile which leaves short-lived microbes, upon impact.  Such microbes only last about five seconds, give or take, before becoming inert and turning into water, and are used in Earth-origin life environments.  In non-Earth-origin environments, new cannons would be designed, above and beyond the original five.  The microbes from a Detox cannon have an effect much like the worms from a sky boy's anatomy that deflates and dies.
+Microbes from an extinguisher cannon leave behind sand which is Earth-origin biologically degradeable and compatible, and does not burn, and inhibits things from burning.
+The slime cannon's microbes create a sticky, thick goo that covers/coats targets and makes it difficult for animal-life targets to move around in, and is a general pain-in-the-ass for zarakites and their half dragons who are wearing wings as they can't fly until they get such crap out of their feathers and such.  Fortunately, plain water does wash off the goo, and irregardless the slime turns into water after about five minutes.  Sky boys covered with such slime can't move around very well, can't run or jump, and can only get around very slowly, until the goo turns to water or they wash themselves off.  This type of cannon has far less effect, of course, in rain [and similar percipitation] and if the target in in a body of water.  Sky boys instinctively spray (some combination of peeing and ejaculating) water on each other if covered with such slime, and don't always like being covered by the slimy goop, but will shoot slime cannons at each other during combat training drills, and unruly sky children don't like being shot at with such a cannon and having to dodge such, and typically shut up and calm down upon the threat of such, and actually behave themselves, of all things.  The slime doesn't actually hurt or injure them, of course, or most animal life of Earth-origin, for that matter, although such cannons are not typically authorized for hunting under Zarakite Law.
+
+Sky boy clothing/natural-clothing/living-clothing, legwear/lowerwear/bottomwear/bottoms/lower-half-wear:
+'Longwinds'/'Regal'/'Regals'	Adjustable, dynamic length ['long'\'short'], and leg size ['loose'\'tight' or 'baggy'\'tight']
+'Pants'/'Trousers'	Baggy, cargo pants, 'Rothco' pseudo-military [surplus] style but with a zipper fly [if a zipper is present]
+'Painter's Pants'	Reminds one of Ghast pants, 'high-tech' 'raver' pants with patches, but patches are pockets, has extra pockets, baggy
+'' (?)
+'' (?)
+With all legwear, the waistband of the legwear is attached [to the rest of the sky boy's anatomy, including nerves and blood], at the hips [where there is no gap] and at the center of the back, right above the butt crack.  The rest is elastic, and not water-tight, regardless of the thickness of the waistband.  Where the waistband is attached, it is attached at the bottom of the waistband, and the part of the white skin the waistband is attached to does not stretch or pull outward, but still allows natural motion and stretching characteristic of what would be expected of comparable historical anatomy wearing comparable clothing.
+Just like all clothing [that a sky boy wears], wherever the clothing is attached to the white skin of the sky boy's body/anatomy, the clothing is attached strong enough that one can pick up and throw the sky boy by grabbing him by his clothing, and such does not stretch the sky boy's white skin, yet/but-also does not interfere with normal skin motion and normal skin elasticity comparable to that of comparable historical anatomy.
+With all sky boy legwear, the 'longwinds gap'/'gap', is always present.  Also, all sky boy footwear can be worn with all types of legwear, all combinations are possible.
+All legwear [worn by sky boys], regardless of the style etc, - move, fold, drape, flex, bend - silently and without apparent friction.
+Longwinds can vary in length, from the ankles to just below the knee when sitting down, and at their tightest are still baggy.  Longwinds have a very thick elastic waistband.  Longwinds always drape easily, softly.
+Regarding pants, the bottom cuffs are attached to the legs [anatomy] in four diagonal corner spots, and the rest of the cuffs are elastic, much like the top of all legwear, as long as the legs are attached of course and not detachables slid up the legs of the clothing and not actually the sky boy's legs [technically].  This allows liquids [such as water] to flow in through the top [not just the gap] and drain out the bottom, instead of accumulating and filling up the legwear, like a bag or water balloon.  Pants don't drape as easily as longwinds do, to maintain the baggy shape.  As such, pants drape like parachute pants.
+Regarding painters/painter's-pants, such has pockets in the same place that they are found in ghast clothing, but also side 'invisible' pockets much like Adidas sportswear with triple stripes on the sides [historical clothing, historical species technology].  Painter's pants also have 6 (six) additional pockets, which are the patches, which open and reseal at the top as well as the sides, selectively.  Painter's pants do not have any drawstring, but instead have an elastic waistband, medium thickness.  Painter's pants drape like parachute pants, stiffer than longwinds.
+
+Sky boy footwear/natural-footwear/living-footwear:
+'Canvas Tops'
+'Sneakers'
+'Combat Boots'
+'' (?)
+'' (?)
+All sky boy footwear have dynamic treads/soles/bottoms, which heal/regenerate/regrow/shape-shift/mutate just like the rest of the anatomy, but lack sense [physical sense, which like all senses of sky boys is presumed to be physical and mundane] of touch/feel.
+
+The magical blood of zarakites conducts electricity.
+Sky boy anatomy supports/has-compatiblity-with cybernectics, but sky boy brains/brain-tissues don't/do-not/lack-such/lack-such-compatibility/lack-compatibility-with-cybernetics.
+
+Zarakites can sting for a length of 100 meters, about 325 feet.
+Half zarakites can sting for a length of 25 meters, about 80 feet, as of the latest proposed updates/corrections.
+
+Sky boys generally measure things in metric, and find such intuitive and natural.
+All sky boys are naturally familiar with Zarakite American English as a first language, intuitive and natural.  Just as intuitive are other languages, which vary by face and race (?).
+
+As some of my perks, people at both floors of the building I live in, Wyant Woods in Fairlawn Ohio, can smoke cigarettes and don't have to live or work in a non-smoking building when at this facility, unlike nursing homes in Ohio which typically don't allow smoking.  Also as some of my perks, people who live here can get snacks between meals, order food deliveries, have televisions in their bedrooms, and request food other than the standard items that are every meal that comes for breakfast as well as lunch and dinner.  In addition, as part of even more of my current perks until my plan is put into action, regardless of whether or not I am working just like all of my other perks, I and human-beings/homo-sapiens-sapiens-species as well as other species of other worlds and other star systems both sentient as well as non-sentient can eventually have a plan put to action that will solve the problems from hostile mind controller invasions and other evils of more than one universe, a plan that will actually work and will actually have a logical and likely chance of easy practical success that simply makes sense and doesn't involve playing dumb, and doesn't involve deceptions or lies about such easy likelyhood of success, and involves empowering the one true actual immortal who is on planet Earth in real life to be the very first zarakite, a magical being who is a two-headed zarakite and never a human being, named Tiger's Eye Jade SwiftWing, who has personalities and intellects that I want and a complete absolute lack of otherwise, who easily hunts and kills hostile beings of various worlds of origin, and has his own families and his own cultures, and has nothing to do with DARPA or anything any human government agency can create or come close to.  These things are real, and these things are logical, and these things make sense, 'nuff said.
+
+
+
+
+
+
+
+
