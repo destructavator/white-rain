@@ -188,3 +188,141 @@ Idea #1534:
 
 Idea #1535:
      2020-02-13    Common-Era   19:31  EST :  Idea #1521 through Idea #1534 I think makes sense and I think simply makes sense.
+
+Idea #1536:
+     2020-02-13    Common-Era   19:31  EST :  Zarakite and draco necks are not imagined or desired by the immortal of Earth to be like springs or spring coils.
+
+Idea #1537:
+     2020-02-13    Common-Era   19:31  EST :  When a compatible detachable is held up against a compatible body part, cap pressed against cap, the parts attach via reflex actions, quick and fast and painless, in a split-second, casual and easy and discomfort-free in itself, and of course pain-free as well.  Such makes a characteristic noise, from the flesh and bones and other body tissues rapidly shapeshifting and fusing together.  The detachables don't have to be perfectly lined up, and can be as much as 45 degrees off-kilter in any orientation, any combination of three axis.  When the parts shapeshift and attach, they automatically twist and line up perfectly, bones and skin and muscles and everything else.  When parts attach they don't have to end up in any specific posture, and often don't.  Heads do this with tops of necks as well.  The sensations that come with the shapeshifting of attaching and detaching body parts is at least mildly sexually stimulating, though still often within self-control of even a zarakite.  An erection from multiple acts of shapeshifting, one right after another, within a few moments of time, is common.  Zarakites and draco people as well as sky children often have sex in locker rooms, changing bodies and body sizes and muscle sizes, shapeshifting, healing and regrowing body parts, detaching and discarding worn and injured body parts, milking, water and rinsing and grooming, sexual stimulation, etc.
+
+Idea #1538:
+     2020-02-13    Common-Era   19:31  EST :  Idea #0000 through Idea #1537 I think makes sense and I think altogether simply makes sense.
+
+Idea #1539:
+     2020-02-13    Common-Era   20:38  EST :  Ears of a human face that stick out very far sideways are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1540:
+     2020-02-13    Common-Era   20:38  EST :  Ears of a human face that are large are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1541:
+     2020-02-13    Common-Era   20:38  EST :  Ears of a human face that have hanging ear lobes are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1542:
+     2020-02-13    Common-Era   20:38  EST :  Nostrils of a human face that are large are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1543:
+     2020-02-13    Common-Era   20:38  EST :  A nose of a human face that is too large is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1544:
+     2020-02-13    Common-Era   20:38  EST :  A hunchbacked human is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1545:
+     2020-02-13    Common-Era   20:38  EST :  A nose of a human face that is crooked is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1546:
+     2020-02-13    Common-Era   20:38  EST :  A nose of a human face that has a center that dips below where it meets the face is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1547:
+     2020-02-13    Common-Era   20:38  EST :  Nostrils of a human face that are turned upwards are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1548:
+     2020-02-13    Common-Era   20:38  EST :  Visible pores on the nose of a human face is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1549:
+     2020-02-13    Common-Era   20:38  EST :  Human nasal-labial folds are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1550:
+     2020-02-13    Common-Era   20:38  EST :  Human laughter lines are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1551:
+     2020-02-13    Common-Era   20:38  EST :  Human dimples are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1552:
+     2020-02-13    Common-Era   20:38  EST :  Disfigured human body parts are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1553:
+     2020-02-13    Common-Era   20:38  EST :  Disproportionally-sized human body parts are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1554:
+     2020-02-13    Common-Era   20:38  EST :  Broad-chested human body parts are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1555:
+     2020-02-13    Common-Era   20:38  EST :  A hairy human chest is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1556:
+     2020-02-13    Common-Era   20:38  EST :  Hairy human buttocks are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1557:
+     2020-02-13    Common-Era   20:38  EST :  Human facial hair is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1558:
+     2020-02-13    Common-Era   20:38  EST :  Human facial hair stubble is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1559:
+     2020-02-13    Common-Era   20:38  EST :  Human armpit hair is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1560:
+     2020-02-13    Common-Era   20:38  EST :  Human pubic hair is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1561:
+     2020-02-13    Common-Era   20:38  EST :  Human baldness is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1562:
+     2020-02-13    Common-Era   20:38  EST :  Human grey and white hair is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1563:
+     2020-02-13    Common-Era   20:38  EST :  Human brown hair is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1564:
+     2020-02-13    Common-Era   20:38  EST :  Human hair stubble, except for areas where scalp hair grows, is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1565:
+     2020-02-13    Common-Era   20:38  EST :  Human rounded shoulders are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1566:
+     2020-02-13    Common-Era   20:38  EST :  Acting socially inept by Caucasian White American Teenage Human public common high-school social standards is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1567:
+     2020-02-13    Common-Era   20:38  EST :  Smoking is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1568:
+     2020-02-13    Common-Era   20:38  EST :  Drinking is unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1569:
+     2020-02-13    Common-Era   20:38  EST :  Tobacco-chewing is disgusting and is also unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1570:
+     2020-02-13    Common-Era   20:38  EST :  Idea #1539 through Idea #1569 are honest, and correct, 'nuffs said.  They also altogether make sense and altogether simply make sense.
+
+Idea #1571:
+     2020-02-13    Common-Era   21:25  EST :  Idea #1538 and Idea #1570 both altogether make sense and both altogether simply make sense.
+
+Idea #1572:
+     2020-02-13    Common-Era   21:25  EST :  Technically speaking at least, humans less than eight years old have physical characteristics and behaviors that both are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1573:
+     2020-02-13    Common-Era   21:25  EST :  Technically speaking at least, human beings seventeen years old and greater have physical characteristics and behaviors that both are unsexy to the zarakite sex drive and ugly to the zarakite sex drive, 'nuffs said.
+
+Idea #1574:
+     2020-02-13    Common-Era   21:25  EST :  The feathers of wings of a zarakite are natural and feel comfortable and pleasant to the touch and feel of the zarakite as well as that of other people of all races and all genders.  As imagined and desired by the immortal of Earth they also secrete natural odorless pheromones that mildy stimulate sexual arousal in all people of all genders and all races, other than the zarakite, and stimulate teenage boys of all races to masterbate over the idea of having sex with a zarakite and ideas of such sex making both of their bodies' parts attach and detach.  Such pheromones also stimulate liking the idea of and masterbating over the idea of one's head detaching and milking a zarakite.  None of the stimulated ideas include any rectal intercourse of any kind at all whatsoever.  None of the stimulated ideas include any idea of sexual harassment or social power or influence from sexual acts at all whatsoever either.  All zarakites have a zarakite sex drive and no other sex drive.  This is normal and healthy and life-long for all zarakites.  All zarakites are naturally sexually attractive to the zarakite sex drive.  All zarakites lack all qualities that are ugly to the zarakite sex drive.  All of this altogether conforms with part of but not all of the imagined ideas and desires of the immortal of Earth which concidentally have a destiny and future to stop any mind controller invasion and prevent further mind controller invasions and bring about health and Paradise and pleasure for the many of Earth who not only survive but thrive and live well and happily with the many things involved.  'Nuffs said.  This and the previous three Ideas as well make sense and altogether simply make sense.
+
+Idea #1575:
+     2020-02-13    Common-Era   21:25  EST :  Natural hair colors for zarakites and draco races and sky kids combined are blond, blue, red, purple, blue-blond, purple-blond, orange, black, magenta, and white.  These are 'sky boy' or 'punk' colors.  This makes 10 (ten) total colors.  For some it helps to mentally associate the 'purple' colors with 'grape'.  For 'purple' I personally use one side of the updated newer SwiftWing tribal logo, not the older one.  The 'blue' is also the intense 'exosolar blue' as well as a 'sky boy blue' color and also an extreme 'digital blue' that isn't light or dark.  The 'psychic blue' that Haldeman's eyes were at one point were too dark and were a dark blue color, the wrong blue.  What the guy at the grocery store had was perfect, dead-on accurate.  Looking at the most recent information, Cobalt faced zarakites will have red-red hair, Gold faced zarakites will have blond-blond hair, Almandine faced zarakites will have natural blue-blond hair, Prismatic faced zarakites will have natural blue-blue hair, Diamond faced zarakites will have natural blond-blond hair, Jet faced zarakites will have natural purple-purple hair, Cheetah faced zarakites will have natural red-red hair, TigerStone faced zarakites will have natural blond-blond hair, Jade faced zarakites will have natural blond-blond hair, Volcano faced zarakites will have natural red-red hair, Iolite faced zarakites will have natural blond-blond hair, Leopard faced zarakites will have natural blond-blond hair, Emerald faced zarakites will have natural blond-blond hair, Graphite faced zarakites will have natural magenta-magenta hair, Copper faced zarakites will have natural red-red hair, and Matrix faced zarakites will have natural blue-blue hair.  Whatever face is named after and based on 'Brian Wegel' will have natural purple-blond hair when it is the natural face of a zarakite.  Last time I checked there are multiple vacancies in the list of one hundred faces.  If Dan Bier is an issue because of the insect thing then we can let him go and fill his spot, by the way.  Also pinched nose nostrils as I'm calling them for the moment are unsexy to the zarakite sex drive.  The same with noses that are too long, as I would want to describe them and would want to have them understood.  All of this, combined with Idea #1571 through Idea #1574 and this Idea as well, altogether makes sense and altogether simply makes sense.
+
+Idea #1576:
+     2020-02-14    Common-Era   12:42  EST :  Over the years I've always had a general difficulty remembering people's names.  Over the years, in general, I've always been good at remembering what people's physical faces look like to my eyes and sense of sight.  Often I would remember someone without rememering their name.  The cops I worked with at Tri-C knew this and so did many professors as well as schoolteachers at more than one school.  The campus police knew that I would remember people by what they looked like including themselves at times, both when I was starting to work with them as well as when they had someone from Metro or administration stop by.  Leia, the student assistant who was working there when I started, who was identified as a Sallyist, suggested that I try to get to know the cops who would be my co-workers by their badge numbers first.  Deans and administrators as well as law enforcement understood I was good at remembering and imagining what people's faces looked like quite easily, and I had a reputation and pretense for such, and this was normal for me and also what others expected me to be like over the years, regardless of whatever medications were and were not involved.  Not being able to visualize or imagine any face I want to at any time quite easily and accurately is unheard of with myself and outside of what I'm known for by many.  I've had many accuse me of being a spy of some sort as well as some sort of undercover replacement for David Reeves while allegedly being someone else, and the real David Reeves wouldn't have any 'filters' as described in discussions, or difficulties easily and quickly imagining any face he wants to.  The real David Reeves wouldn't imagine any disfigured or distorted or blurred or unclear versions of any face, and never did such things.  I know that this is all honest and consistent for many years and decades and is simply true and there's no way around it, and two-and-a-half years of foot patrol being accounted for honestly depend upon it, including conversations with the cops in the office over people watched and observed and also a conversation with an administrator who worked with one of the deans.  That one dean was a weirdo and had a 'thing' for me, as if he was telepathic or something, and seemed to have his own ideas, and picked up on mine, and reacted to what I would imagine when I went to that campus and not just for classes.  He would know what I can and can't imagine easily and how, if I'm actually David Reeves and not some imposter or joke of some sort.  I know this one has to be taken and can't be refuted, not unless you discredit a lot of cops and brass and telepaths and good operators and others with them, and their versions of my track record.  Contrary to what former FBI Director Stephen D Anthony said in one discussion, or someone representing him, changes to my imagination were NOT discussed and NO ONE went over any instructions or what I should expect with me, ever.  Not at Cleveland Clinic, not before that, not after.  Never ever.  See why I keep asking for the instruction manual I never got, once in a while?  This is not a game and I am not being playful, and I am not bemused.  I don't find this funny at all.  This is not playacting or pretending and I am upset and still demanding the first-time instructions along with what I should know that I never got.  I'm sick of others thinking I got the introduction already along with instructions.  Perhaps I should be given the instructions and proper introductions anyways, and a start-over, even if anyone thinks I don't need it.  Maybe start with what a 'spirit phone' is and what I should expect with my imagination and memory and what these things have to do with each other.  Oh and I recall one back office discussion with the cops I worked with about the 'thought police' and how they wanted to implement that, back then.  It was a VERBAL discussion, ordinary and plain, and we have a lot to catch up on, myself and a bunch of idiots that think I already know the ropes of some manual I never got and don't have.  It was a restricted verbal discussion, off-limits at the time to civilians, at the time, but that's changed since then, I've been told and educated, and I've been told I'm authorized and cleared to talk to whomever I want to about it, and so is anyone else.  No it isn't a smartphone app in anyone's head.  This altogether makes sense and altogether simply makes sense.
+
+Idea #1577:
+     2020-02-14    Common-Era   15:18  EST :  I just had a conversation with one or more 'operators' of some kind who talked about a 'pretend spy agency' that I've never heard of and don't understand or know anything about.  One of them was shocked as they explained that 'no data file was declared' or something, meaning no operator or guide of any religion or with any spirit phone ever discussed any pretend spy agency with me or told me what it is or what it has to do with me or any of the Reeves family or dark hearted or mind controllers or anything.  I've been accused of being an actual real-life spy for a real spy agency or real non-civilian agency of some sort, possibly post or pre Soviet Russian, such as KGB or something, and there have been real actual authorities checking me out with logic that says that if I really was David Reeves then I would know all about a pretend spy agency and also a lot of other stuff I never heard of.  I just had at least one operator probe my brain telepathically to see if I knew anything about this 'pretend spy agency' and 'the project' whatever that is and they were shocked and astonished that things they were expecting to come up didn't, and that I'm not kidding or playing games about these things.  I relaxed my head and tried to think no thoughts and be passive and permissive for a bit and that's what happened.  No wonder the real actual CIA and then some have been involved and checking to see if I'm an undercover spy for someone or not.  I'm still clueless and I don't know how this helps fight any mind controllers or fix any problems regarding any mind control invasion or anyone running around with thought control technologies causing problems, or fix broken failsafe teams, but I suspect this stuff must be over and done with before that stuff can happen.  I still have a few that call me 'boss' even though I'm a civilian and they know it.  I didn't ask to be in charge by the way and actually don't know how this ended up happening in the first place or exactly what I'm supposed to be in charge of, either.  It sounds like some have a lot of explaining to do in their offices where I don't work, conversations I'm not a part of and shouldn't be a part of, over this.  Then again, maybe it's because of my unique situation.  That's just a guess, as I can't imagine they would do this for any human, doing this with a civilian who has never heard of this stuff before a few years ago and thought he simply had a hard life with abusive parents and had no idea why one of them had their eyes glow an odd color with a dark blue ring the way it did one night, or what that meant, and the same dark blue ring on John Haldman's eyes and he turned out to be possessed by an insect species that was just as evil and just as sneaky and dishonest and deceptive.  I'm still playing guessing games here, still winging it, and going with what I think simply makes the most sense.  I think I've been treated unfairly.  What about all of the telepathic stuff in my old apartment with a gun in a holster and then the bathroom mirror and being arrested by some policeman squad that never came?  What about the gun clip that Matthew Damron wanted turned into a money clip for dollar bills?  Is that related?  No insect of any species from any world answered or explained these things, and no 'blackey honesty' group as it called itself and named itself answered these things or even mentioned them for discussion, ever, not with me at least.  Another group that called itself 'blackey corruption' didn't do any better.  Hey, these names sound racist, but are names THEY came up with and they called themselves these names!  Whether or not anyone put them up to it, I don't know.
+
+Idea #1578:
+     2020-02-14    Common-Era   15:18  EST :  One of the favorite and highly effective methods of the dark triad is to leave me clueless and unknowing and out of all planning regarding as much as possible, while working in the role of pretend allies as well as any pretend family and-or friends.  Being left out of knowing about the death of Uncle Ted until well after his funeral and long after his will was read and probate court was over and done with it, very deliberate of the dark trio, is one example.  Every single so-called 'family vacation' is another example of this, when all three of them deliberately plan the daily agenda and how long the vacation will be and big and little things, all without me being part of any discussion about those types of things, very intentionally and very carefully.  They've always done this over the years and decades.  Included is how they pretend and lie and claim that I was supposedly included and part of all planning.  They've done that quite frequently over the decades as well, both before and after the turn of the century, every time an act of evil and hostile deception.  These types of things are in their values, dark hearted trio values, their methods and their ways, very evil, and very hostile to zarakite values, always.  Their evil values are evil to planet Earth as well.  Who knows what they have in store for planet Earth as well as any allies of planet Earth?  How about the human race and any who would keep them around for anything?  Humans aren't the best, but the immortal of Earth wants them for his own plans and for planet Earth, as opposed to them going extinct and suffering any pain or punishment or anything instead.  Once again, duplicating and copying the evil methods and ways of the dark hearted trio does evil and does in the planet and human beings.  This is still proving itself and I rest my case.  'Nuffs said.
+
+Idea #1579:
+     2020-02-15    Common-Era   22:46  EST :  My modeling and animation skills both suck.  I can't create models of zarakites in Blender software very accurately, not even with my best efforts which span multiple years of modelling and animating.  Animating them isn't any better.  The closest I've gotten to what really makes me happy, at least by comparison to the other stuff, is the head and face which is very close to a TigerStone face, shown in a lot of renders.  I've been trying to create a face at least that is photorealistic.
+
+Idea #1580:
+     2020-02-15    Common-Era   22:46  EST :  I think the mohawk haircut that I really want, for a lot of the faces and models and zarakites, won't be quite like the bristles of a broom, but will be many numerous small spikes, with straight individual hairs that grow thick and numerous, from many hair folicles per square centimeter of parts of the scalp, very dense growth, so that no spikes or hair have to be combed inward at all to keep the hair style stable.  Also, the spikes and hair and actual complete style stays styled even in high winds and high-speed dives from high altitudes, and springs completely back into shape quickly and naturally and an unlimited number of times when exposed to greater wind and-or stress.  No hair gel or hair spray or other styling product is ever needed, a press to the navel makes the hair style's spikes stick out and be stiff and strong and springy as described.  The average length of the spikes is adjustable, with pressing the navel, from about 5 centimeters to about 50 centimeters and every length in-between, with the back and other parts of the 'fan' of the 'hawk overall about as long as the top, generally.
+
+Idea #1581:
+     2020-02-15    Common-Era   23:51  EST :  The dark hearted queen [we know who she is, and what her name is by now, certainly] will sometimes speak with a lot of emphasis on specific syllables and one-syllable words, that repeat, with a lot of forcefulness and emphasis that comes with a massive amount of mental focus and energy, sometimes with small but energetic impulsive hand and finger motions and breathing, like a martial arts kiai [like in kata and fighting, look it up, it has high relavance and zarakites do swordfighting and flying kicks with thrust with a dragon's roar when lunging and diving and should know this word like the back of their hands] that comes with her repeated word, a word which is often a word such as 'must' and the words 'have' and 'to' one after another which are very convincing and easily make human beings think the fate of the world is dependant upon something trivial as a so-called 'emergency', and quickly mind control the human brain easily with said technique.  No wonder she's psychic.  This is one of her methods and it simply works, fast and effective with the way she does it.  Doctors and nurses fall for it with a 100 percent rate of failure to think clearly and resist or even suspect anything.  Any nearby witnesses don't typically suspect a thing, from what I've seen, and as far back as I can remember instantaneously fall for her psychic spell in numbers simultaneously left and right, and she doesn't seem to have to work very hard to make it happen.  She's also well-practiced in this technique, having used it so many times that she's honed it to an art and uses it effortlessly, knowing exactly what she's doing.  She already had this much skill many years ago, long before Type Five, from what I've witnessed and remember.  The psychic effect and attack is so strong that no one ever asks questions or second-guesses or dares to consider cross-examining her, and they take it like an 'of course' type of thing, deluded and charmed, weird and trance-like, zealot-like, yet act like they think they are being obvious and practical with an implied 'of course' type of attitude.  Humans who are victims of her become like this in the blink of an eye.  It happens very fast and is alarming to witness and watch if one is completely immune to it.  If only I had a camera, but with footage that itself would be safe for a human to watch.....  This is so real and can be confirmed, yet I'll say that this isn't a game character of any typical sort, 'nuffs said.
