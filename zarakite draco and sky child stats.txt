@@ -30,10 +30,10 @@ The youngest age sky boys are about 50 pounds, on average, heads and skins, not 
 -----
 Magic pool sizes
 
-100	Sky Child
-1,000	Half-dragon [all half-dragon races]
-10,000	Sky Dragon
-100,000	Tiger Dragon
+    100		Sky Child
+  1,000		Half-dragon [all half-dragon races]
+ 10,000		Sky Dragon
+100,000		Tiger Dragon
 
 -----
 Magic point costs
@@ -54,3 +54,22 @@ Tiger dragon costs:
 1.0		Respawning a draco-race person, head to toe completely and the most body parts, all soft-body parts except for their head which is hard-bodied, age 5 and size 5 and muscle size 5
 50.0		Respawning a draco-race person, head to toe completely and the most body parts, all parts hard-bodied, age 5 and size 5 and muscle size 5
 1.0		Respawning one of their four extra heads, head to toe completely and the most body parts, all soft-body parts, age 5 and size 5 and muscle size 5
+
+-		Spawning a gun from a gun glove hand, tiger dragon, light pistol
+-		Reloading a gun from a gun glove hand, tiger dragon, light pistol
+-		Spawning a gun from a gun glove hand, tiger dragon, heavy pistol
+-		Reloading a gun from a gun glove hand, tiger dragon, heavy pistol
+-		Spawning a gun from a gun glove hand, tiger dragon, SMG
+-		Reloading a gun from a gun glove hand, tiger dragon, SMG
+-		Spawning a gun from a gun glove hand, tiger dragon, assault rifle
+-		Reloading a gun from a gun glove hand, tiger dragon, assault rifle
+-		Spawning a gun from a gun glove hand, tiger dragon, heavy rifle
+-		Reloading a gun from a gun glove hand, tiger dragon, heavy rifle
+
+-		Spawning a one-handed sword handle from a left-hand sword glove, tiger dragon sword
+-		Spawning a two-handed sword handle from a right-hand sword glove, tiger dragon sword
+-		Spawning a sword blade from a sword glove, length 1, tiger dragon sword
+-		Spawning a sword blade from a sword glove, length 2, tiger dragon sword
+-		Spawning a sword blade from a sword glove, length 3, tiger dragon sword
+-		Spawning a sword blade from a sword glove, length 4, tiger dragon sword
+-		Spawning a sword blade from a sword glove, length 5, tiger dragon sword
