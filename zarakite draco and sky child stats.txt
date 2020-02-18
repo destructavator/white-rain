@@ -1,0 +1,56 @@
+-----
+Body part heights and dimensions
+Applies to zarakites, half-dragon races, and sky children
+
+“Waist size” pertains to clothing sizes, USA (United States Of America).
+
+Zarakite ratio of wingspan to height, as applicable: 6.4101934462906878393495402581103
+Wingspan does not include feathertips, but only the skin/hide underneath.
+
+Dimensions are as follows:
+
+Age 5 [oldest]:
+size 1: 162 cm / 63.78 inches, belly waist size 50.476 cm / 19.872 inches, clothing waist size is 21 inches, wingspan if applicable is 34 ft 1 in
+size 2: 171 cm / 67.32 inches, belly waist size 53.280 cm / 20.976 inches, clothing waist size is 22 inches, wingspan if applicable is 36 ft 10 in
+size 3: 175 cm / 68.90 inches, belly waist size 54.526 cm / 21.467 inches, clothing waist size is 23 inches, wingspan if applicable is 38 ft 0 in
+size 4: 181 cm / 71.26 inches, belly waist size 56.396 cm / 22.203 inches, clothing waist size is 24 inches, wingspan if applicable is 38 ft 1 in
+size 5: 187 cm / 73.62 inches, belly waist size 58.265 cm / 22.939 inches, clothing waist size is 25 inches, wingspan if applicable is 39 ft 4 in
+
+Age 1 [youngest]:
+size 1: 117 cm
+size 2: 123 cm
+size 3: 128 cm
+size 4: 132 cm
+size 5: 138 cm
+
+For the 3 (three) ages inbetween the oldest and the youngest [there are 5 (five) ages] you-can/one-should interpolate.
+
+The youngest age sky boys are about 50 pounds, on average, heads and skins, not taking into account [sky boy natural] clothing.  At their oldest age, their average weight is about 100 pounds average, using the same criteria.  In kilograms, these numbers equate to approximately 22.67962 kg and 45.35924 kg, respectively.
+
+-----
+Magic pool sizes
+
+100	Sky Child
+1,000	Half-dragon [all half-dragon races]
+10,000	Sky Dragon
+100,000	Tiger Dragon
+
+-----
+Magic point costs
+
+Sky dragon costs:
+1.0		Respawning their tiger dragon, head to toe completely and the most body parts, all soft-body parts, age 5 and size 5 and muscle size 5
+100.0		Respawning their tiger dragon, head to toe completely and the most body parts, all hard-body parts, age 5 and size 5 and muscle size 5
+1.0		Respawning a sky child, head to toe completely and the most body parts, all soft-body parts except for their head which is human-like, age 5 and size 5 and muscle size 5
+10.0		Respawning a sky child, head to toe completely and the most body parts, all human-like body parts, age 5 and size 5 and muscle size 5
+1.0		Respawning a draco-race person, head to toe completely and the most body parts, all soft-body parts except for their head which is hard-bodied, age 5 and size 5 and muscle size 5
+50.0		Respawning a draco-race person, head to toe completely and the most body parts, all parts hard-bodied, age 5 and size 5 and muscle size 5
+
+Tiger dragon costs:
+1.0		Respawning one of their sky dragons, head to toe completely and the most body parts, all soft-body parts, age 5 and size 5 and muscle size 5
+100.0		Respawning one of their sky dragons, head to toe completely and the most body parts, all hard-body parts, age 5 and size 5 and muscle size 5
+1.0		Respawning a sky child, head to toe completely and the most body parts, all soft-body parts except for their head which is human-like, age 5 and size 5 and muscle size 5
+10.0		Respawning a sky child, head to toe completely and the most body parts, all human-like body parts, age 5 and size 5 and muscle size 5
+1.0		Respawning a draco-race person, head to toe completely and the most body parts, all soft-body parts except for their head which is hard-bodied, age 5 and size 5 and muscle size 5
+50.0		Respawning a draco-race person, head to toe completely and the most body parts, all parts hard-bodied, age 5 and size 5 and muscle size 5
+1.0		Respawning one of their four extra heads, head to toe completely and the most body parts, all soft-body parts, age 5 and size 5 and muscle size 5
