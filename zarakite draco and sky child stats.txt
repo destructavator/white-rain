@@ -73,3 +73,60 @@ Tiger dragon costs:
 -		Spawning a sword blade from a sword glove, length 3, tiger dragon sword
 -		Spawning a sword blade from a sword glove, length 4, tiger dragon sword
 -		Spawning a sword blade from a sword glove, length 5, tiger dragon sword
+
+1		Being alive for an hour, regardless of number of body parts, with own body parts muscle size 1
+2		Being alive for an hour, regardless of number of body parts, with own body parts muscle size 2
+3		Being alive for an hour, regardless of number of body parts, with own body parts muscle size 3
+4		Being alive for an hour, regardless of number of body parts, with own body parts muscle size 4
+5		Being alive for an hour, regardless of number of body parts, with own body parts muscle size 5
+
+-----
+Gun magazine sizes
+[The values labelled 'ROF', 'AMM', and 'DAM' refer to emulating some of the weapons in the video game Deus Ex Human Revolution with the Cheat Engine and integrated Cheat 'Burger' Menu.]
+[An old outdated name for the tiger dragon 5-shot semi-automatic heavy pistol is 'IC-22A' or 'Ice-Claw-22A'.]
+'Rounds' refers to the number of shots possible before reloading.
+'Rates' refers to firing rates for full automatic firing and is in shots per second.  If more than one number is provided than more than one firing rate is available.  '8\16' means that full automatic firing can be 8 shots per second or 16 shots per second.  'SA' means 'semi-automatic'.
+
+Rounds		Rates		Name
+
+Sky Child
+19		SA		Light pistol	ROF 2	AMM 3	DAM 0
+13		SA		Heavy pistol	ROF 1	AMM 1	DAM 0
+200		8\16\24		SMG		ROF 8	AMM 17	DAM 0
+80		8\16		Assault rifle	ROF 3	AMM 6	DAM 0
+10		SA		Heavy rifle	ROF 3	AMM 7	DAM 0
+
+Griffon
+19		SA		Light pistol	ROF 2	AMM 3
+13		SA		Heavy pistol	ROF 1	AMM 1
+160		8\16		SMG		ROF 8	AMM 13
+60		8		Assault rifle	ROF 2	AMM 4
+8		SA		Heavy rifle	ROF 3	AMM 7	DAM 3
+
+Barracuda
+19		SA		Light pistol	ROF 2	AMM 3
+13		SA		Heavy pistol	ROF 1	AMM 1
+180		8\16\24		SMG		ROF 10	AMM 15
+50		8\16		Assault rifle	ROF 3	AMM 3
+10		SA		Heavy rifle	ROF 4	AMM 7	DAM 3
+
+Kahjeet
+22		SA		Light pistol	ROF 2	AMM 4
+13		SA		Heavy pistol	ROF 1	AMM 1
+240		8\16\24		SMG		ROF 10	AMM 21
+90		8\16		Assault rifle	ROF 4	AMM 7
+12		SA		Heavy rifle	ROF 5	AMM 9	DAM 3
+
+Sky dragon
+16		SA		Light pistol	ROF 2	AMM 2
+10		SA		Heavy pistol	ROF 1	AMM 0
+120		8\16		SMG		ROF 8	AMM 9
+50		8		Assault rifle	ROF 1	AMM 3
+5		SA		Heavy rifle	ROF 2	AMM 2	DAM 3
+
+Tiger dragon
+10		SA		Light pistol	ROF 1	AMM 0
+5		SA		Heavy pistol	ROF 0	AMM 0
+80		8\16		SMG		ROF 8	AMM 5
+30		8		Assault rifle	ROF 0	AMM 1
+3		SA		Heavy rifle	ROF 0	AMM 0	DAM 3
