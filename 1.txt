@@ -1,0 +1,15 @@
+1	Earth Major
+2	Earth Minor
+3	Air Major
+4	Air Minor
+5	Fire Major
+6	Fire Minor
+7	Water Major
+8	Water Minor
+9	Spirit
+10	Spirit
+11	Spirit
+12	Spirit (Crown)
+13	Physical / Tangible (Mundane Focus)
+
+
