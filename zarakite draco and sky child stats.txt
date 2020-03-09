@@ -28,6 +28,27 @@ For the 3 (three) ages inbetween the oldest and the youngest [there are 5 (five)
 The youngest age sky boys are about 50 pounds, on average, heads and skins, not taking into account [sky boy natural] clothing.  At their oldest age, their average weight is about 100 pounds average, using the same criteria.  In kilograms, these numbers equate to approximately 22.67962 kg and 45.35924 kg, respectively.
 
 -----
+Top standard flight speeds, sustained level flight for a minute at a time
+
+Griffon
+Age 5, size 5	250 kph	/ 155 mph	1.000
+Age 5, size 1	217 kph	/ 135 mph	0.866
+Age 1, size 5	185 kph	/ 115 mph	0.738
+Age 1, size 1	156 kph	/ 97 mph	0.625
+
+Sky Dragon
+Age 5, size 5	500 kph	/ 310 mph
+Age 5, size 1	434 kph	/ 270 mph
+Age 1, size 5	370 kph	/ 230 mph
+Age 1, size 1	312 kph	/ 194 mph
+
+Tiger Dragon
+Age 5, size 5	500 kph	/ 310 mph
+Age 5, size 1	434 kph	/ 270 mph
+Age 1, size 5	370 kph	/ 230 mph
+Age 1, size 1	312 kph	/ 194 mph
+
+-----
 Magic pool sizes
 
     100		Sky Child
@@ -85,7 +106,8 @@ Gun magazine sizes
 [The values labelled 'ROF', 'AMM', and 'DAM' refer to emulating some of the weapons in the video game Deus Ex Human Revolution with the Cheat Engine and integrated Cheat 'Burger' Menu.]
 [An old outdated name for the tiger dragon 5-shot semi-automatic heavy pistol is 'IC-22A' or 'Ice-Claw-22A'.]
 'Rounds' refers to the number of shots possible before reloading.
-'Rates' refers to firing rates for full automatic firing and is in shots per second.  If more than one number is provided than more than one firing rate is available.  '8\16' means that full automatic firing can be 8 shots per second or 16 shots per second.  'SA' means 'semi-automatic'.
+'Rates' refers to firing rates for full automatic firing and is in shots per second.  If more than one number is provided than more than one firing rate is available.
+'8\16' means that full automatic firing can be 8 shots per second or 16 shots per second.  'SA' means 'semi-automatic'.
 
 Rounds		Rates		Name
 
@@ -135,16 +157,16 @@ Tiger dragon
 Population numbers
 Rough figures
 
-  2,000,000,000	Barracuda
-  2,000,000,000	Elves
-  2,000,000,000	Thorn
- 25,000,000,000	Griffon
-  9,500,000,000 Kahjeet
-  9,200,000,000 Humans [traditionals, same people and same proportions as present-day 2020]
-    250,000,000	Sky Children
-     50,000,000 Sky Dragon Zarakites
-        500,000	Tiger Dragon Zarakites
+    250,000,000	Barracuda
+    250,000,000	Elves
+    250,000,000	Thorn
+    250,000,000	Griffon
+    250,000,000 Kahjeet
+  8,000,000,000 Humans [traditionals, same people and same proportions as present-day 2020]
+    400,000,000	Sky Children
+     40,000,000 Sky Dragon Zarakites
+      4,444,000	Tiger Dragon Zarakites
 
- 50,000,000,000	Total for planet Earth
+  9,700,000,000	Total for planet Earth
 
-11,000,000,000 'Trendsetters' that never lived before are included.
+'Trendsetters' that never lived before, and have no memories of past experiencies living on other worlds, are included.
