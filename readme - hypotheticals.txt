@@ -84,8 +84,6 @@ https://www.facebook.com/profile.php?id=100042638266991
 EMAIL:
 zare166@yahoo.com
 davereevesguitar12@gmail.com
-davereevesguitar12@yandex.ru
-davereevesguitar12@yandex.com
 davereevesguitar12@protonmail.ch
 blahblahblex@gmx.us
 
@@ -103,3 +101,6 @@ Hypothetical #0002:
 
 Hypothetical #0003:
 	2019-12-10  18:35  When someone lacks credibility and wants to re-establish whether or not others should trust them, they can temporarily voluntarily step out and make themselves absent, and come back later, and of course explain ahead of time that they are going to do this and make sure others agree to and accept this before doing this type of thing.  Then while they are gone and not involving themselves others will notice a before-and-after difference and when whomever isn't credible or trusted comes back then they can say 'I told you so' and have credibility if what they were expecting happened.  This isn't foolproof and of course is risky as others have to make their own judgements and opinions and might still not trust someone who uses this technique who might still be suspected of being deceptive/dishonest/sneaky.  On the other hand if it works it really pays off.  This method and logic involved works with zarakite values and common sense thinking that I have and all zarakites and all sky boys of all types I would want have and is irregardless of face and individual personality.  No sky boys of any type or face at any age are mind readers of course so this type of method of proving trust and credibility as well as re-establishing it if suspected of being bad or hostile work.
+
+Hypothetical #0004:
+	2020-03-12  21:06  A boy who lives in a small suburban early-21st-century town is playing with a ball and accidentally throws or hits the ball through a next-door-neighbor's window.  The next-door neighbor is one his family doesn't know that well, but he knows which house it is and he knows it is his neighbor's house.  It is a weekday afternoon and his parents are not yet home and he thinks the neighbor is home.  According to zarakite values the boy first-of-all shouldn't wait but should simply knock on the door of the neighbor and apologize and explain the ball is his.  He should not have to have his parents standing behind him to make him apologize.  He should also not be scared or afraid to knock on the door to apologize.  Once his parents are home he should also tell his parents and expect his parents to talk to the neighbor, and he should expect for his parents or the neighbor to probably pay for the damage to the window right away, but long-term the boy should expect to save up money to pay for the damage done to the neighbor's window and anything inside the house etc.  If the boy's parents give their boy money or forgive some of his debt for him that's an act of love between the boy and his parents.  This hypothetical has zarakite values being enforced and used left and right throughout the entire hypothetical.  This includes the zarakite value that if you do someone wrong, you should try to make up for what you did to them, and their property and money is included.
