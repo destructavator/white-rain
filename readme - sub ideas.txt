@@ -157,6 +157,12 @@ Idea #1624:
      2020-03-09    Common-Era   07:25  EST :  SPY GAMES I was told have been ordered to be shut down and declared too dangerous to start again, and ordered not to start again, by the CIA and other USA officials.  Personally I don't know what all of that means but I'm guessing it's a good thing.  I didn't start any of the Spy Games and don't know who did or what they are really but they are now stopped.  I asked in the past what a 'spy game' is and got multiple answers that lacked consistency, totally different answers that didn't sound like anything to do with each other, and were very confusing and misleading.  Other times I got no answers.  No one told me I wasn't allowed to know, and no one said anything like 'I can't comment on that, I'm not authorized' and no one told me that I shouldn't ask or anything like that.  I don't know if the term will come up again ever with any training with zarakites and swordfighting and practice to fight hostile exosolars or not.  I don't know if it is in manuals and textbooks or not.  A quick search on the Internet with my computer comes up with a 1999 film and a 2001 film, movie titles, and not any term with any definition.  That's all I could find that's substantial in Internet search results, nothing more, nothing less.  I DO know that the SPY GAMES had something to do with things going in and out of the heads of nearby people around me as well as myself and involves telepathy.  This altogether makes sense and altogether simply makes sense.
 
 -----
+	Date born was September 25 1978 for TJS but birthday is -----?
+
+-----
+	Many things in these Ideas are spoken as if they are of the present and-or past, but are actually of the future. 
+
+-----
 NOHS Yearbook, out of 423 freshman photos, 20 have looks at a single quick glance to become sky children if the criteria is close to or like that of the chosen.  That's about 4.728 percent.  For sophmmores, 10 faces out of 379, roughly 2.639 percent.
 
 -----
