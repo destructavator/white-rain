@@ -165,6 +165,18 @@ Idea #1626:
 Idea #1627:
      2020-03-21    Common-Era   15:49  EST :  Type Five was caused by the traumatic pain I felt because of the actions of the evil Reeves family and how they bullied and hated me for so long as an unwanted child and 'black sheep' of the family, and the cruel and inhumane hardships they put me through, and how these evils and hardships were covered up in secrecy and veiled in lies and pretending for too many years as the family did so many pretending acts to make themselves look like they loved me but were in fact otherwise the whole time.  They didn't care how cruel they got, or how many laws or ethics they broke, or how 'below the belt' they were at any time.  They didn't let being inhumane or extremely cruel stop them.  These things I know for a fact are both honest and true, rock solid, and cannot be otherwise, with certainty that is stronger than the hardest thickest stone of all time.  Them getting away with it for so long has also been a big part of that pain and suffering.  I never asked for or wanted any pain or suffering of that magnitude, or to be bullied like that, at all, ever, 'nuffs said.  After what I've been through, how could it not be cruel and inhumane and really below-the-belt for others to bully me and mess with me?  How heartless.  Being that cruel draws attention and does something to one's reputation, and not just personal, and certainly makes heads turn in shock and horror and disgust.  Well, it should.  Of course it would, why not?  No wonder there have been operators I was stuck with that literally embraced having psychopathy and being cold and heartless, behind the scenes.  No one else could be assinged to me and live with themselves and see to it that I'm bullied or discredited so badly, as well as put through a bunch of other hardships.  This stuff had to come out at some point.
 
+Idea #1628:
+     2020-03-28    Common-Era   22:26  EST :  If you're immortal, you're not irrelevant, 'nuffs said.
+
+Idea #1629:
+     2020-03-28    Common-Era   22:26  EST :  One cannot regain what they never had in the first place, 'nuffs said.
+
+Idea #1630:
+     2020-03-28    Common-Era   22:26  EST :  With the latest changes, the chosen will not be reincarnated or reborn as any dragons.  With the exception of Tiger's Eye, members of the SwiftWing family will be like all zarakites, genetic recreations of the originals but with changes that make them zarakites and not humans.  The originals will not be altered or changed into anyone or anything else.  'Nuffs said.
+
+Idea #1631:
+     2020-03-28    Common-Era   22:26  EST :  One who fights to have a lack of paper trails and also fights to have others take their word for things instead of have any evidence [such as video recordings] clearly has much to hide, and is also likely hiding wrongdoing, 'nuffs said.  This one is obvious and logical, and it shows.
+
 -----
 	Date born was September 25 1978 for TJS but birthday is -----?
 

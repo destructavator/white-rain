@@ -43,18 +43,18 @@ Age 1, size 5	370 kph	/ 230 mph
 Age 1, size 1	312 kph	/ 194 mph
 
 Tiger Dragon
-Age 5, size 5	500 kph	/ 310 mph
-Age 5, size 1	434 kph	/ 270 mph
-Age 1, size 5	370 kph	/ 230 mph
-Age 1, size 1	312 kph	/ 194 mph
+Age 5, size 5	550 kph	/ 341 mph
+Age 5, size 1	477 kph	/ 292 mph
+Age 1, size 5	407 kph	/ 253 mph
+Age 1, size 1	343 kph	/ 213 mph
 
 -----
 Magic pool sizes
 
-    100		Sky Child
+    200		Sky Child
   1,000		Half-dragon [all half-dragon races]
- 10,000		Sky Dragon
-100,000		Tiger Dragon
+  2,500		Sky Dragon
+ 10,000		Tiger Dragon
 
 -----
 Magic point costs
@@ -162,11 +162,11 @@ Rough figures
     250,000,000	Thorn
     250,000,000	Griffon
     250,000,000 Kahjeet
-  8,000,000,000 Humans [traditionals, same people and same proportions as present-day 2020]
+  7,600,000,000 Humans [traditionals, same people and same proportions as present-day 2020]
     400,000,000	Sky Children
      40,000,000 Sky Dragon Zarakites
       4,444,000	Tiger Dragon Zarakites
 
-  9,700,000,000	Total for planet Earth
+  9,250,000,000	Total for planet Earth
 
 'Trendsetters' that never lived before, and have no memories of past experiencies living on other worlds, are included.
