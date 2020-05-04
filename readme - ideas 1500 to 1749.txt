@@ -627,3 +627,45 @@ Idea #1679:
 
 Idea #1680:
      2020-04-30    Common-Era   11:34  EST :  The idea of having sex like how homosexual/gay men have sex is as ugly and repulsive to all zarakites, and the zarakite sex drive, as it is to heterosexual/straight men, if not more.  Zarakites would not have sex like that in prison.  'Nuffs said.  This of course invariably applies to all zarakites.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1681:
+     2020-04-30    Common-Era   12:32  EST :  Given how their bodies work, zarakites could try out and experiment with cybernetics and implants, without such things ever being permanant or flawlessly irreversible at all.
+
+Idea #1682:
+     2020-04-30    Common-Era   12:39  EST :  Human beings in their twenties and older are adults.  This is true, plain and simple, as matter-of-fact.  In literal terms, this simply is.  That's how I and zarakites see it, as well as the zarakite sex drive, 'nuff said.  This simply makes sense.
+
+Idea #1683:
+     2020-04-30    Common-Era   12:51  EST :  What is ruddy and-or mottled is generally unattractive to zarakites and the zarakite sex drive.  'Nuff said.
+
+Idea #1684:
+     2020-04-30    Common-Era   12:51  EST :  Warts, moles and 'beauty marks', of the skin, are ugly and repulsive to zarakites and the zarakites sex drive.  Freckles on only certain parts of the face, combined with youth and other good-looking characteristics, are OK and in some cases attractive.
+
+Idea #1685:
+     2020-04-30    Common-Era   12:51  EST :  A youthful, fresh-faced appearance, is good-looking and attractive to all zarakites, always.
+
+Idea #1686:
+     2020-04-30    Common-Era   13:47  EST :  Hunger often makes one energetic, 'nuff said.
+
+Idea #1687:
+     2020-04-30    Common-Era   13:53  EST :  There's something about my love of breaking glass and mirrors inside of video games I can't figure out.  Does it have something to do with the dark prince's psychic abilities tied to mirrors and perhaps glass of sorts?  I think it does.
+
+Idea #1688:
+     2020-05-02    Common-Era   10:35  EST :  The idea of leaving the roof door open while running downstairs before coming back up again, which was within the last several minutes, had a good and attractive feeling to it, and so did the imagery which I liked.  Also, it had logic to it which I liked, and it seemed like something I would try in that type of situation.  I regret I didn't do it.  Also, what I did right after coming back up was maybe late, I'm not sure if I regret or not doing that before heading downstairs to that guy or not.  Regarding the visual renders and the feelings with it, I would like to experience those and that type of stuff again.  Someone[s] knows what to do with this data and said they could use it.  Okay, I'll go back to the game now, and try to get rid of the washed-out gamma to the video/visual stuff, and I hate a washed-out look from too much gamma, but I also hate it when all of it is too dark.
+
+Idea #1689:
+     2020-05-02    Common-Era   16:04  EST :  The social block needs to go.
+
+Idea #1690:
+     2020-05-04    Common-Era   09:22  EST :  It feels good to punish evil.
+
+Idea #1691:
+     2020-05-04    Common-Era   09:22  EST :  It feels terrible to bully the innocent.
+
+Idea #1692:
+     2020-05-04    Common-Era   09:22  EST :  Bullying the innocent is evil according to zarakite values.
+
+Idea #1693:
+     2020-05-04    Common-Era   09:22  EST :  According to zarakite values it is both evil and also a bad idea to bully an immortal.
+
+Idea #1694:
+     2020-05-04    Common-Era   09:22  EST :  When taking sides, if one side has an immortal, it is always a good idea to side with the immortal's side, even if it isn't the best idea at first.  In the long run it always pays off, especially if one stays with the immortal.  'Nuffs said.
