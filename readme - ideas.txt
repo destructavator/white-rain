@@ -5694,4 +5694,64 @@ Idea #1659:
 Idea #1660:
      2020-04-30    Common-Era   10:31  EST :  At least two out of three of the dark hearted trio like the idea of being psychic, and are into that sort of thing.  They also love mind games and deceptions and manipulating others.  It fits with dark hearted trio values, it fits with their values and ideals.  They would love to go around having an ability like a 'Jedi Mind Trick' that they could use on others all the time.  Such things are among what they would do if they could have superpowers over others.  Such things are really their kind of thing and among their likes and ideals.  Such things and such deceptions and manipulations are all against zarakite values, and evil according to zarakite values, and powers that zarakites would never have.  'Nuffs said.  This still simply makes sense.
 
+Idea #1661:
+     2020-04-30    Common-Era   10:56  EST :  This has come up in many conversations to the point of falling on deaf ears at times, but spirits need to speak by themselves and for themselves, saying their own things that they choose to say, 'nuffs said.  This still simply makes sense, and still did to begin with.
+
+Idea #1662:
+     2020-04-30    Common-Era   11:02  EST :  This has come up in many conversations to the point of falling on deaf ears at times, but spirits should/ought-to speak by themselves and for themselves, saying their own things that they choose to say, 'nuffs said.  They have already proven that this is within their means, quite frequently and strongly as such when they do, sometimes, at least.  There was a brief hint/flash of a dream I had within the last several years, just now.  I had that same dream more than once, I think.  This still simply makes sense, and still did to begin with.
+
+Idea #1663:
+     2020-04-30    Common-Era   11:13  EST :  There is something about loose baggy trousers, combined with a skinny shirtless body, with the body having no hair or hair folicles on the front or back of the torso or chest, regardless of gender, that is very attractive to the zarakite sex drive, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1664:
+     2020-04-30    Common-Era   11:13  EST :  Shaved heads, bald heads, and heads with scalp hair cut so short it meets requirements to work in human USA military, are unattractive and ugly to the zarakite sex drive.  What makes such heads look even more repulsive to any zarakite is an oversize nose and-or ears that stick out, combined with scalp hair cut so short or shaved.  Exceptions are the fanhawk mohawk hair style, a version of the spike-top hair style, and an uppercut hair style, as already established.  'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1665:
+     2020-04-30    Common-Era   11:22  EST :  A lack of a nose on a face, as well as a nose so short that the openings of the nostrils show when the head is level and gazed upon from in front at a level height, is unattractive and ugly to the eyes of any zarakite as well as the zarakite sex drive, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1666:
+     2020-04-30    Common-Era   11:22  EST :  Beards, mustaches, and other facial hair styles, as well as facial hair stubble, are all still unattractive to both the eyes of any zarakite as well as the zarakite sex drive, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1667:
+     2020-04-30    Common-Era   11:22  EST :  Skin that resembles leather, for example from long-term exposure to a lot of sunlight, is still unattractive, repulsive, and ugly to both the eyes of any zarakite as well as the zarakite sex drive, applicable to all skin areas of the body, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1668:
+     2020-04-30    Common-Era   11:22  EST :  Scar tissue is still unattractive, repulsive, and ugly to both the eyes of any zarakite as well as the zarakite sex drive, applicable to all areas of the body, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1669:
+     2020-04-30    Common-Era   11:22  EST :  Wrinkles of all kinds are still unattractive, repulsive, and ugly to both the eyes of any zarakite as well as the zarakite sex drive, applicable to all areas of the body, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1670:
+     2020-04-30    Common-Era   11:22  EST :  Arm and leg hair that is long, thick, or both, is still unattractive, repulsive, and ugly to both the eyes of any zarakite as well as the zarakite sex drive, applicable to all areas of the body, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1671:
+     2020-04-30    Common-Era   11:34  EST :  Youth beyond infant-hood and toddler-hood is attractive and pleasant to the zarakite sex drive, while adulthood and old age are both repulsive and ugly to the zarakite sex drive, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1672:
+     2020-04-30    Common-Era   11:34  EST :  All zarakites both like and want themselves to be attractive and pleasing to the zarakite sex drive, long-term for their entire lives, and like other people to be attractive to the zarakite sex drive as well, but regardless of these things can behave themselves and restrain their honesty to be nice to others and respect others who find other things pleasing, 'nuff said.  Such respect is good and valued in zarakite values, 'nuffs said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1673:
+     2020-04-30    Common-Era   11:34  EST :  Racism, sexism, and other forms of discrimination, are all generally and by default EVIL and BAD in zarakite values, 'nuffs said.  The zarakite sex drive and therefore all zarakites do however discriminate, and as such the least evil thing is to be honest about this.  Self control by being nice/polite to those who are ugly/repulsive is good according to zarakite values, 'nuffs said.  This type of self control has limits of course but is still something all zarakites are capable of, which itself is a good thing as zarakite values see-it/judge.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1674:
+     2020-04-30    Common-Era   11:34  EST :  Brown hair and dull-colored hair is for some reason generally unattractive to all zarakites, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1675:
+     2020-04-30    Common-Era   11:34  EST :  All of the dark triad and Proto's face as well, at all ages, are unattractive and ugly and repulsive, to all zarakites and the zarakite sex drive, 'nuff said.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1676:
+     2020-04-30    Common-Era   11:34  EST :  Skinny bodies with slight muscles are very attractive and pleasant to all zarakite eyes and the zarakite sex drive, 'nuff said.  This applies to bodies with a torso that has washboard abs, little to no abdominal muscles and skinny, and skinny with a slight bit of belly fat.  Looking emaciated or malnourished however is freakish and repulsive instead.  This of course invariably applies to all zarakites.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1677:
+     2020-04-30    Common-Era   11:34  EST :  Scalp hair that has a lot of body and volume and health and youth, regardless of gender, is pleasing and attractive to the eyes of all zarakites and the zarakite sex drive, 'nuff said.  This applies to hair that has aforementioned qualities naturally, without any cosmetics or beauty products being used.  Scalp hair that is any combination of - thin, damaged, sparse, grey or white from age, unhealthy, oily/greasy, wavy, curly - is ugly and repulsive to the eyes of all zarakites and also to the zarakite sex drive.  This of course invariably applies to all zarakites.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
+Idea #1678:
+     2020-04-30    Common-Era   11:34  EST :  Wavy hair is somehow associated with dark triad.  Irregardless of how, this is how it happens to be, whether any zarakite or anyone else likes it or not.  This simply makes sense.
+
+Idea #1679:
+     2020-04-30    Common-Era   11:34  EST :  What is attractive and unattractive to zarakites is simply how it is whether anyone likes it or not, and not at all from discrimination or anything racist or sexist.  Regardless of how much of this anyone believes or doesn't, this is true and honest and correct, 'nuffs said.  This has and still does altogether simply make sense.
+
+Idea #1680:
+     2020-04-30    Common-Era   11:34  EST :  The idea of having sex like how homosexual/gay men have sex is as ugly and repulsive to all zarakites, and the zarakite sex drive, as it is to heterosexual/straight men, if not more.  Zarakites would not have sex like that in prison.  'Nuffs said.  This of course invariably applies to all zarakites.  This has been true countless times in the past and still is, and applies to all zarakites, and today still simply makes sense.
+
 As of Monday August 19 (nineteen) 2019, 08/19/2019 CE, 13:36 EST, referencing 'readme - ideas.txt' from White Rain, Ideas - #0000 through #0006, #0008, #0009, #0012 through #0015 - are definite and for certain, backed by Zare of skyCrown's desires and wants and wishes and hopes, and backed by zarakite values, and are forseen to be, and are included in some way in Future Focus of Divination and Future Focus of Destiny [the two of which actually are the same thing], at this time.  Also, idea #0007 seems quite likely but isn't certain, as the future is in motion, and foretelling the future isn't an exact science, 'nuff said.
