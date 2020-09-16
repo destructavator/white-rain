@@ -2,6 +2,7 @@ Scriptname ZarakiteCheckDoorsLocA extends ObjectReference
 
 GlobalVariable Property ZarakiteHouseA_Door000Enabled auto
 GlobalVariable Property ZarakiteLocA_SmithingDoorEnabled auto
+GlobalVariable Property ZarakiteLocA_StudyDoorEnabled auto
 
 ; Form Property ZarakiteBasementEntry000_A auto	; OLD Falkreath Garden Chamber Door
 
@@ -14,6 +15,9 @@ MiscObject Property ZarakiteLocA_GardenChamber_Door_dummy auto
 
 MiscObject Property ZarakiteLocA_CanMakeForgeRoom_dummy auto
 MiscObject Property ZarakiteLocA_ForgeRoom_Door_dummy auto
+
+MiscObject Property ZarakiteLocA_CanMakeStudy_dummy auto
+MiscObject Property ZarakiteLocA_Study_Door_dummy auto
 
 float locX0A = -9860.0	;	Falkreath
 float locX1A = -7860.0	;	Falkreath
@@ -54,6 +58,7 @@ Event OnActivate(ObjectReference akActionRef)
 
 		player.RemoveItem(ZarakiteLocA_GardenChamber_Door_dummy, 9999, true)
 		player.RemoveItem(ZarakiteLocA_ForgeRoom_Door_dummy, 9999, true)
+		player.RemoveItem(ZarakiteLocA_Study_Door_dummy, 9999, true)
 
 		If ZarakiteHouseA_Door000Enabled.GetValue() < 0.5
 			player.AddItem(ZarakiteLocA_CanMakeGardenChamber_dummy, 1, true)
@@ -65,6 +70,12 @@ Event OnActivate(ObjectReference akActionRef)
 			player.AddItem(ZarakiteLocA_CanMakeForgeRoom_dummy, 1, true)
 		Else
 			player.RemoveItem(ZarakiteLocA_CanMakeForgeRoom_dummy, 9999, true)
+		EndIf
+
+		If ZarakiteLocA_StudyDoorEnabled.GetValue() < 0.5
+			player.AddItem(ZarakiteLocA_CanMakeStudy_dummy, 1, true)
+		Else
+			player.RemoveItem(ZarakiteLocA_CanMakeStudy_dummy, 9999, true)
 		EndIf
 	EndIf
 EndEvent

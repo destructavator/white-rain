@@ -29,7 +29,7 @@ int Property numTooth auto
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	int numDetachables = akCaster.GetItemCount(ZarakiteDetachables)
 
-	If numDetachables > 5
+	If numDetachables >= 5
 		akCaster.RemoveItem(ZarakiteDetachables, 5, false)
 
 		akCaster.AddItem(ZarakiteBlood, numBlood * 5, false)
