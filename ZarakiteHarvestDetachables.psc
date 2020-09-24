@@ -1,4 +1,4 @@
-Scriptname ZarakiteHarvestDetachables extends ActiveMagicEffect
+Scriptname ZarakiteHarvestDetachables extends ZarakiteUtility
 
 import game
 
@@ -26,10 +26,26 @@ int Property numHeart auto
 int Property numSkin auto
 int Property numTooth auto
 
+float Property numSecondsToHarvestOne auto
+
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	int numDetachables = akCaster.GetItemCount(ZarakiteDetachables)
+;/
+	If numDetachables >= 50
+		akCaster.RemoveItem(ZarakiteDetachables, 50, false)
 
-	If numDetachables >= 5
+		akCaster.AddItem(ZarakiteBlood, numBlood * 50, false)
+		akCaster.AddItem(ZarakiteBones, numBones * 50, false)
+		akCaster.AddItem(ZarakiteCloth, numCloth * 50, false)
+		akCaster.AddItem(ZarakiteEyeball, numEyeball * 50, false)
+		akCaster.AddItem(ZarakiteFeathers, numFeathers * 50, false)
+		akCaster.AddItem(ZarakiteFlesh, numFlesh * 50, false)
+		akCaster.AddItem(ZarakiteHair, numHair * 50, false)
+		akCaster.AddItem(ZarakiteHeart, numHeart * 50, false)
+		akCaster.AddItem(ZarakiteSkin, numSkin * 50, false)
+		akCaster.AddItem(ZarakiteTooth, numTooth * 50, false)
+
+	ElseIf numDetachables >= 5
 		akCaster.RemoveItem(ZarakiteDetachables, 5, false)
 
 		akCaster.AddItem(ZarakiteBlood, numBlood * 5, false)
@@ -43,8 +59,12 @@ Event OnEffectStart(Actor akTarget, Actor akCaster)
 		akCaster.AddItem(ZarakiteSkin, numSkin * 5, false)
 		akCaster.AddItem(ZarakiteTooth, numTooth * 5, false)
 
-	ElseIf numDetachables > 0
+	Else
+/;
+	If numDetachables > 0
 		akCaster.RemoveItem(ZarakiteDetachables, 1, false)
+
+		AdvanceGameTimeSecondsDisplay(numSecondsToHarvestOne)
 
 		akCaster.AddItem(ZarakiteBlood, numBlood, false)
 		akCaster.AddItem(ZarakiteBones, numBones, false)

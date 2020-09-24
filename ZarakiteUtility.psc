@@ -17,6 +17,35 @@ Function AdvanceGameTime(float hoursToPass)
 	GameHour.Mod(hoursToPass)
 EndFunction
 
+Function AdvanceGameTimeDisplay(float hoursToPass)
+	float timeMinutesF = hoursToPass * 60.0
+	int timeMinutes = timeMinutesF as int
+	If timeMinutes > 0
+		Debug.Notification(timeMinutes + " minutes have passed.")
+	EndIf
+
+	GameHour.Mod(hoursToPass)
+EndFunction
+
+Function AdvanceGameTimeMinutesDisplay(float minutesToPass)
+	int timeMinutes = minutesToPass as int
+	If timeMinutes > 0
+		Debug.Notification(timeMinutes + " minutes have passed.")
+	EndIf
+
+	GameHour.Mod(minutesToPass / 60.0)
+EndFunction
+
+Function AdvanceGameTimeSecondsDisplay(float secondsToPass)
+	float timeMinutesF = secondsToPass / 60.0
+	int timeMinutes = timeMinutesF as int
+	If timeMinutes > 0
+		Debug.Notification(timeMinutes + " minutes have passed.")
+	EndIf
+
+	GameHour.Mod(secondsToPass / 3600.0)
+EndFunction
+
 string Function GetHealthMagicPointValueName()
 	string t = "Magicka"
 
@@ -75,7 +104,3 @@ Function UpdateLastFamilySupportDay()
 		ZarakiteLastFamilyDay.Mod(diffF)
 	EndIf
 EndFunction
-
-
-
-
